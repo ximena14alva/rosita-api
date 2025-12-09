@@ -1,0 +1,38 @@
+[
+  {
+    "nombre": "Rosita Fresita",
+    "imagen": "https://i.pinimg.com/564x/e6/70/d1/e670d1982e54ae6f43d3076904c718b3.jpg",
+    "descripcion": "Alegre, amable y amante de la repostería"
+  },
+  {
+    "nombre": "Morita",
+    "imagen": "https://i.pinimg.com/736x/d5/74/9b/d5749b936d001f5a6dc45d39f6503cfe.jpg",
+    "descripcion": "Creativa, artística y tranquila"
+  },
+  {
+    "nombre": "Limonsita",
+    "imagen": "https://i.pinimg.com/474x/f0/03/b0/f003b0ce40c683f1417689b3ad9d12dd.jpg",
+    "descripcion": "Fashionista, moderna y divertida"
+  },
+  {
+    "nombre": "Cerecita",
+    "imagen": "https://i.pinimg.com/736x/e0/4b/2c/e04b2c6fe7ff452c7661d879507e002b.jpg",
+    "descripcion": "Cantante, extrovertida y valiente"
+  },
+  {
+    "nombre": "Naranjita",
+    "imagen": "https://i.pinimg.com/474x/18/2c/ed/182ced1857f11df316a7f2ca54b7ebc0.jpg",
+    "descripcion": "Soñadora y muy dulce con todos"
+  },
+  {
+    "nombre": "Frambruesita",
+    "imagen": "https://i.pinimg.com/originals/74/1b/ef/741bef42cc07185579f1906d0999d7b8.png",
+    "descripcion": "Inteligente y experta en recetas"
+  },
+  {
+    "nombre": "Ciruelita",
+    "imagen": "https://i.pinimg.com/originals/16/87/9e/16879eddd7e8728ddae4786e9fcb6f4c.png",
+    "descripcion": "Tranquila, le encantan las siestas"
+  }
+  
+]

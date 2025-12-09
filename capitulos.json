@@ -1,0 +1,27 @@
+[
+  {
+    "titulo": "El pastel perfecto",
+    "imagen": "https://m.media-amazon.com/images/S/pv-target-images/6ce54ca243b98c77b69711637e4892f3e310e5d90ef885e27da4de24886ef899.jpg",
+    "descripcion": "Rosita intenta hornear el pastel más perfecto de todos."
+  },
+  {
+    "titulo": "Fiesta en Ciudad Fresa",
+    "imagen": "https://m.media-amazon.com/images/S/pv-target-images/2f480bcecca53f2ec9d277141fc216b6f34c4b36565c525c0c8ce2943f5766a6._SX1080_FMjpg_.jpg",
+    "descripcion": "Las amigas organizan una fiesta inolvidable."
+  },
+  {
+    "titulo": "Un día con amigas",
+    "imagen": "https://semillitas.com/wp-content/uploads/2021/04/1123592466.jpg",
+    "descripcion": "La amistad se pone a prueba en una divertida aventura."
+  },
+  {
+    "titulo": "Lluvia en aldea fresa",
+    "imagen": "https://s34111.pcdn.co/wp-content/uploads/2023/11/la-pelicula-de-rosita-fresita__featured-header.jpg",
+    "descripcion": "Una lluvia aterra a la aldea fresa, pero la amistad siempre soluciona todo."
+  },
+  {
+    "titulo": "De Paseo",
+    "imagen": "https://s34111.pcdn.co/wp-content/uploads/2023/10/strawberry-shortcake-berry-bitty-adventures__featured-header.jpg",
+    "descripcion": "El día maravilloso para que fluffly conozca alrededor."
+  }
+]
